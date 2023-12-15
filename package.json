@@ -1,23 +1,23 @@
 {
-  "name": "js-train",
+  "name": "js-train-8",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --ignore public"
+    "dev": "node index js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/it-brains-ua/js-train.git"
+    "url": "git+https://github.com/it-brains-ua/js-train-8.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/it-brains-ua/js-train/issues"
+    "url": "https://github.com/it-brains-ua/js-train-8/issues"
   },
-  "homepage": "https://github.com/it-brains-ua/js-train#readme",
+  "homepage": "https://github.com/it-brains-ua/js-train-8#readme",
   "dependencies": {
     "connect-livereload": "^0.6.1",
     "express": "^4.18.2",
